@@ -1,8 +1,5 @@
-# Heading for Step 1
+# Startup your kubernetes cluster
 
-This is some text.
+This environment has a `launch.sh`{{execute}}
 
-Here's a single line of runnable code:
-
-`printf 'Hello, world!\n\n'`{{execute}}
-
+You can get with `kubectl get nodes`{{execute}}
