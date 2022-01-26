@@ -1,6 +1,6 @@
 {
   "type": "challenge@0.8",
-  "title": "Challenge Example - Kubernetes",
+  "title": "K8S Challenge #1 v0.0.1",
   "description": "",
   "difficulty": "Advance",
   "time": "60 minutes",
@@ -34,7 +34,7 @@
   "environment": {
     "uilayout": "terminal",
     "showide": true,
-    "hidesidebar": true
+    "hidesidebar": false
   },
   "backend": {
     "imageid": "kubernetes-cluster-running:1.18"
