@@ -1,5 +1,5 @@
 {
-  "title": "Hello multinode k8s",
+  "title": "Hello multinode k8s v0.0.2",
   "description": "A simple scenario example. Where a multi-node kubernetes cluster is set up and running",
   "difficulty": "Beginner",
   "time": "3 minutes",
