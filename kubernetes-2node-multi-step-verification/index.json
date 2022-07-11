@@ -3,7 +3,8 @@
   "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "foreground": "setup.sh"
     },
     "steps": [
       {
