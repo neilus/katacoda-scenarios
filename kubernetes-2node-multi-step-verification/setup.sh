@@ -1,8 +1,7 @@
 #!/bin/sh
-set -o -x
 
 echo "Installing helm..."
-curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | sh -
+curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash -
 echo "Helm successfully installed"
 
 echo "Installing helm unittest plugin..."
