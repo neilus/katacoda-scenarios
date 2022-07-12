@@ -15,7 +15,7 @@ echo "Helm diff plugin successfully installed"
 echo "Installing the nginx ingress controller"
 helm repo add nginx-stable https://helm.nginx.com/stable
 helm repo update
-helm install nginx nginx-stable/nginx-ingress
+helm install nginx nginx-stable/nginx-ingress --set controller.service.type=NodePort
 echo "Nginx ingress controller installed successfully"
 
 echo "Clone the git assignment gist"
