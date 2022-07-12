@@ -26,3 +26,7 @@
       configuration is correct and in fact with the provided credentials the
       service can connect to the databse
     - *extra* for using TDD practices while setting up the helm chart
+
+## You have approx 60 minutes to complete the assignment!
+
+Good luck!

@@ -1,5 +1,5 @@
 {
-  "title": "DevOps k8s assignment v0.1.3",
+  "title": "DevOps k8s assignment v0.2.0",
   "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps",
   "details": {
     "intro": {
@@ -8,14 +8,12 @@
     },
     "steps": [
       {
-        "title": "Create a pod",
-        "text": "step1/text.md",
-        "verify": "step1/verify.sh"
+        "title": "Install MySQL",
+        "text": "step1/text.md"
       },
       {
-        "title": "Delete a pod",
-        "text": "step2/text.md",
-        "verify": "step2/verify.sh"
+        "title": "Create a Helm chart",
+        "text": "step2/text.md"
       }
     ],
     "finish": {

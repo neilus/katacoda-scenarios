@@ -3,4 +3,4 @@
 
 ### WELL DONE !
 
-You solved this challenge!
+Thanks for your time!
