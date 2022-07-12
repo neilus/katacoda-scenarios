@@ -1,3 +1,3 @@
 #!/bin/bash
 
-kubectl get pod my-pod
+echo "No verification implemented"
