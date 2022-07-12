@@ -1,5 +1,5 @@
 {
-  "title": "DevOps k8s assignment v0.2.0",
+  "title": "DevOps k8s assignment v0.3.0",
   "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps",
   "details": {
     "intro": {
@@ -7,6 +7,10 @@
       "foreground": "setup.sh"
     },
     "steps": [
+      {
+        "title": "Resolve some merge conflict",
+        "text": "step-git/text.md"
+      },
       {
         "title": "Install MySQL",
         "text": "step1/text.md"

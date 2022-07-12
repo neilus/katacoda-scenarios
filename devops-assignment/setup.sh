@@ -16,4 +16,8 @@ echo "Installing the nginx ingress controller"
 helm repo add nginx-stable https://helm.nginx.com/stable
 helm repo update
 helm install nginx nginx-stable/nginx-ingress
+echo "Nginx ingress controller installed successfully"
 
+echo "Clone the git assignment gist"
+git clone https://gist.github.com/38cc03232c1213d787cf24c42264f7b2.git git-assignment
+echo "Cloning was successfull"
