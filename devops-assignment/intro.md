@@ -1,13 +1,16 @@
 
 <br>
 
-### DevOps k8s Assignment v0.1.0
+# DevOps k8s Assignment
 
 ## In this environment you should have
 
 - nginx ingress controller set up
 - kubernetes with 2 nodes running
 - helm pre-installed (with unittest and diff plugins)
+- You have an editor on the 1st tab
+- you have a terminal and you can open up more terminals by clicking on the
+  plus (+) sign on the tab bar
 
 ## In this assignment you will have to set up a:
 

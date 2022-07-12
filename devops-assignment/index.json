@@ -1,5 +1,5 @@
 {
-  "title": "DevOps k8s assignment v0.1.0",
+  "title": "DevOps k8s assignment v0.1.1",
   "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps",
   "details": {
     "intro": {
