@@ -3,7 +3,7 @@
 
 # DevOps k8s Assignment
 
-## In this environment you should have
+## In this environment you have
 
 - nginx ingress controller set up
 - kubernetes with 2 nodes running
@@ -12,8 +12,9 @@
 - you have a terminal and you can open up more terminals by clicking on the
   plus (+) sign on the tab bar
 
-## In this assignment you will have to set up a:
+## In this assignment you will have to solve the following challenges:
 
+1. Resolve a merge conflict for your imaginary colleagues in GIT
 1. install a mysql DB to the k8s cluster
 1. create a helm chart for a fake web service
   1. has to publish a web page
